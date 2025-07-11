@@ -40,9 +40,9 @@
         "1": "How do I enroll in a 403b?",
         "2": "Am I eligible for a performance review?",
         "3": "How do I get paid on time?",
-        "placeholder": "Type a new question (e.g. Which plans cover an annual eye exam?)"
+        "placeholder": "This chatbot is for general use only. Please consult HR before taking action."
     },
-    "askTitle": "Information provided by this chatbot is for general use only. Please consult HR before taking action.",
+    "askTitle": "Ask Goodie",
     "gpt4vExamples": {
         "1": "Compare the impact of interest rates and GDP in financial markets.",
         "2": "What is the expected trend for the S&P 500 index over the next five years? Compare it to the past S&P 500 performance",
