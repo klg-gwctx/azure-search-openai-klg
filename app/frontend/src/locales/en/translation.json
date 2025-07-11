@@ -2,7 +2,7 @@
     "pageTitle": "HR Chat Bot",
     "headerTitle": "HR Chat Bot",
     "chat": "Chat",
-    "qa": "Ask a question",
+    "qa": "Ask",
     "login": "Login",
     "logout": "Logout",
     "clearChat": "Clear chat",
@@ -34,20 +34,20 @@
     },
     "developerSettings": "Developer settings",
 
-    "chatEmptyStateTitle": "Chat with Goodie",
-    "chatEmptyStateSubtitle": "I can only access internal HR documents. Information provided by me is for general use only. Please consult a human in HR before taking action.",
+    "chatEmptyStateTitle": "Chat with Goodie.",
+    "chatEmptyStateSubtitle": "I can only access internal HR documents. Information provided by me is for general use only. Please consult HR before taking action.",
     "defaultExamples": {
         "1": "How do I enroll in a 403b?",
         "2": "Am I eligible for a performance review?",
         "3": "How do I get paid on time?",
         "placeholder": "This chatbot is for general use only. Please consult HR before taking action."
     },
-    "askTitle": "Ask Goodie",
+    "askTitle": "Ask Goodie something.",
     "gpt4vExamples": {
         "1": "Compare the impact of interest rates and GDP in financial markets.",
         "2": "What is the expected trend for the S&P 500 index over the next five years? Compare it to the past S&P 500 performance",
         "3": "Can you identify any correlation between oil prices and stock market trends?",
-        "placeholder": "Example: Does my plan cover annual eye exams?"
+        "placeholder": "This chatbot is for general use only. Please consult HR before taking action."
     },
     "generatingAnswer": "Generating answer",
     "citationWithColon": "Citation:",
