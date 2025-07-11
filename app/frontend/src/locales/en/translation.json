@@ -40,7 +40,7 @@
         "1": "How do I enroll in a 403b?",
         "2": "Am I eligible for a performance review?",
         "3": "How do I get paid on time?",
-        "placeholder": "This chatbot is for general use only. Please consult HR before taking action."
+        "placeholder": "Start a chat by typing something here."
     },
     "askTitle": "Ask Goodie something.",
     "gpt4vExamples": {
