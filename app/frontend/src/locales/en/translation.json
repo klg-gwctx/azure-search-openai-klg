@@ -47,14 +47,14 @@
         "1": "Compare the impact of interest rates and GDP in financial markets.",
         "2": "What is the expected trend for the S&P 500 index over the next five years? Compare it to the past S&P 500 performance",
         "3": "Can you identify any correlation between oil prices and stock market trends?",
-        "placeholder": "This chatbot is for general use only. Please consult HR before taking action."
+        "placeholder": "Ask a quick question. Remember to consult HR before taking action."
     },
     "generatingAnswer": "Generating answer",
     "citationWithColon": "Citation:",
     "followupQuestions": "Follow-up questions:",
 
     "tooltips": {
-        "submitQuestion": "Submit question",
+        "submitQuestion": "Send",
         "askWithVoice": "Ask question with voice",
         "stopRecording": "Stop recording question",
         "showThoughtProcess": "Show thought process",
