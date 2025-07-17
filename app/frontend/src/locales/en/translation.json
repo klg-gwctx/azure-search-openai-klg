@@ -1,6 +1,6 @@
 {
-    "pageTitle": "HR Chat Bot",
-    "headerTitle": "HR Chat Bot",
+    "pageTitle": "Goodie: HR Chat Bot",
+    "headerTitle": "Goodie: HR Chat Bot",
     "chat": "Chat",
     "qa": "Ask",
     "login": "Login",
@@ -34,15 +34,15 @@
     },
     "developerSettings": "Developer settings",
 
-    "chatEmptyStateTitle": "Chat with Goodie.",
-    "chatEmptyStateSubtitle": "I can only access internal HR documents. Information provided by me is for general use only. Please consult HR before taking action.",
+    "chatEmptyStateTitle": "Hi, I'm Goodie.",
+    "chatEmptyStateSubtitle": "Information provided by Goodie is for general use and applies only to Goodwill Central Texas Team Members. Please email HR at humanresources@gwctx.org for questions specific to your situation.",
     "defaultExamples": {
         "1": "How do I enroll in a 403b?",
         "2": "Am I eligible for a performance review?",
         "3": "How do I get paid on time?",
         "placeholder": "Start a chat by typing something here."
     },
-    "askTitle": "Ask Goodie something.",
+    "askTitle": "Ask me something!",
     "gpt4vExamples": {
         "1": "Compare the impact of interest rates and GDP in financial markets.",
         "2": "What is the expected trend for the S&P 500 index over the next five years? Compare it to the past S&P 500 performance",
