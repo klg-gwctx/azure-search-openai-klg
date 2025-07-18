@@ -35,12 +35,12 @@
     "developerSettings": "Developer settings",
 
     "chatEmptyStateTitle": "Hi, I'm Goodie.",
-    "chatEmptyStateSubtitle": "Information provided by Goodie is for general use and applies only to Goodwill Central Texas Team Members. Please email HR at humanresources@gwctx.org for questions specific to your situation.",
+    "chatEmptyStateSubtitle": "The information provided by Goodie is for general use and applies only to Goodwill Central Texas Team Members. Not sure where to start? Here are some sample questions you can ask Goodie below.",
     "defaultExamples": {
         "1": "How do I enroll in a 403b?",
         "2": "Am I eligible for a performance review?",
         "3": "How do I get paid on time?",
-        "placeholder": "Start a chat by typing something here."
+        "placeholder": "Start a chat by typing something here. - Este chat admite varios idiomas, incluido el español. ¡Escríbenos en tu idioma preferido!"
     },
     "askTitle": "Ask me something!",
     "gpt4vExamples": {
